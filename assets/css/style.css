@@ -1,3 +1,8 @@
+h1 p {
+    color: gold;
+    font-style: italic;
+}
+
 .navbar {
     padding-top: 30px;
     padding-bottom: 30px;
