@@ -1,5 +1,13 @@
-h1 p {
-    color: gold;
+.jumbotron {
+    padding: 2em;
+}
+
+.jumbotron-fluid {
+    margin-bottom: 0px;
+}
+
+.title {
+    color: gold !important;
     font-style: italic;
 }
 
