@@ -8,8 +8,12 @@
 
 .title {
     color: gold !important;
+    font-family: 'Roboto', sans-serif;
     font-style: italic;
 }
+
+
+
 
 .navbar {
     padding-top: 30px;
@@ -18,9 +22,13 @@
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 25px;
+    font-weight: 400;
     letter-spacing: 6px;
+}
+
+#navbarNav {
+    padding-left: 25px;
 }
 
 
