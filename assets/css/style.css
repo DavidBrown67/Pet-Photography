@@ -39,7 +39,7 @@
 
 .form-section {
     clear: left;
-    background-image: url("/assets/img/jasper.jpeg");
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1094874726.png");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -47,11 +47,11 @@
 
 
 .form-box {
-    margin-top: 70px;
+    margin-top: 250px;
     background-color: rgba(194, 170, 66, 0.6);
     max-width: 400px;
     position: absolute;
-    left: 10%;
+    right: 10%;
     padding: 30px;
 }
 
