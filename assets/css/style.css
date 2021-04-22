@@ -72,3 +72,11 @@
     color: #fafafa;
     display: block;
 }
+
+.card {
+    border: 15px solid rgba(35, 88, 201, 0.125);
+}
+
+ul {
+    font-size: 30px;
+}
